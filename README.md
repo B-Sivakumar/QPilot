@@ -1,14 +1,27 @@
-**QPilot – Ask Questions from Any PDF Using AI**
-QPilot is an AI-powered document assistant that allows users to upload any PDF and ask questions about its content. It instantly extracts information and answers user queries in a natural, human-readable way.
-**Key Features**
-1.Upload any PDF document (e.g. policy, legal doc, research) 
-2.Ask questions in plain English
-3.Powered by Groq’s LLaMA 3 large language model
-4.Download the AI-generated answer as a PDF
-5.Clean and modern UI built with React
-6.Runs locally – privacy preserved
-**Tech Stack**
-Frontend: React, Axios, jsPDF
-Backend: FastAPI, PyPDF2, Groq API
-Model: LLaMA 3 (via Groq)
-Language: Python + JavaScript
+# QPilot – Ask Questions from Any PDF Using AI
+
+**QPilot** is an AI-powered document assistant that enables users to upload any PDF and ask questions about its content. It extracts relevant information from the document and provides clear, human-readable answers in real time.
+
+---
+
+## Key Features
+
+- Upload any PDF document (e.g., insurance policy, legal contract, research paper)  
+- Ask questions in plain English  
+- Powered by Groq’s LLaMA 3 large language model  
+- Download AI-generated answers as a PDF  
+- Clean and modern UI built with React  
+- Runs locally to preserve user privacy
+
+---
+
+## Tech Stack
+
+- **Frontend:** React, Axios, jsPDF  
+- **Backend:** FastAPI, PyPDF2, Groq API  
+- **Model:** LLaMA 3 (via Groq)  
+- **Languages:** Python, JavaScript
+
+---
+
+
